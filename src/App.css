@@ -49,14 +49,8 @@ svg {
     height: 100vh;
 }
 
-path:hover, g:hover {
-    fill: white;
-    stroke: black; /* Optional: to ensure the stroke is visible */
-    cursor: pointer;
-}
-
 .cls-1 {
-    fill: grey;
+    /*fill: white;*/
 }
 
 .cls-1,
@@ -70,7 +64,7 @@ path:hover, g:hover {
 }
 
 .cls-1 {
-    fill: #757576;
+    /*fill: #757576;*/
     stroke: #000;
     stroke-linejoin: bevel;
 }
